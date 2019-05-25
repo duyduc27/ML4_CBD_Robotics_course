@@ -1,2 +1,2 @@
-# Assignment 02: 
+# Assignment 02
 Analytic Report project 
