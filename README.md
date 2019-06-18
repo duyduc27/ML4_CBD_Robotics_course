@@ -5,3 +5,4 @@ Assignment 02 : Analytic Report project <br>
 Assignment 03 : PCA computation by hand <br>
 Assignment 04 : Melbourne Housing Project <br>
 Assignment 05 : Airline Arrivals Project<br>
+Assignment 06 : Boston Marathon project<br>
