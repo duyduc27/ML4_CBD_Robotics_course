@@ -6,4 +6,4 @@
 - Prepare Data and Feature Selection
 
 **Đánh giá mô hình bằng mẫu**<br>
--Evaluate a model with Resampling
+- Evaluate a model with Resampling
