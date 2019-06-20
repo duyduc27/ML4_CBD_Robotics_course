@@ -5,5 +5,5 @@
 **Chuẩn bị dữ liệu và chọn feature**
 - Prepare Data and Feature Selection
 
-**Đánh giá mô hình bằng mẫu**
+**Đánh giá mô hình bằng mẫu**<br>
 -Evaluate a model with Resampling
