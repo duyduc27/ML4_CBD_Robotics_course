@@ -7,3 +7,7 @@
 
 **Đánh giá mô hình bằng mẫu**
 -Evaluate a model with Resampling
+
+**Các chuẩn đo lường**
+- Classification Metrics
+- Regression Metrics
