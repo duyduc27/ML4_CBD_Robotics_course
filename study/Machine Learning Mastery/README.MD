@@ -6,7 +6,7 @@
 - Prepare Data and Feature Selection<br>
 
 **Đánh giá mô hình bằng mẫu**
--Evaluate a model with Resampling<br>
+- Evaluate a model with Resampling<br>
 
 **Các chuẩn đo lường**
 - Classification Metrics
