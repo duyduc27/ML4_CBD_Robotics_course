@@ -13,3 +13,4 @@
 
 **Kiểm thử thuật toán có lựa chọn**
 - Spot-Check Classification
+- Spot-Check Regression
