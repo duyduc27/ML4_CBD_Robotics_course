@@ -9,5 +9,7 @@
 - Evaluate a model with Resampling<br>
 
 **Các chuẩn đo lường**
-- Classification Metrics
-- Regression Metrics
+- Machine Learning Metrics (Classification & Regression)<br>
+
+**Kiểm thử thuật toán có lựa chọn**
+- Spot-Check Classification
