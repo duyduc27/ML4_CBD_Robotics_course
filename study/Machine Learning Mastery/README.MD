@@ -11,6 +11,9 @@
 **Các chuẩn đo lường**
 - Machine Learning Metrics (Classification & Regression)<br>
 
-**Kiểm thử thuật toán có lựa chọn**
+**Kiểm thử các thuật toán một cách có lựa chọn**
 - Spot-Check Classification
-- Spot-Check Regression
+- Spot-Check Regression<br>
+
+**So sánh, chọn ra mô hình tốt nhất và minh họa**
+- Compare Machine Learning Algorithms
