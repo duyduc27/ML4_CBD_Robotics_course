@@ -17,3 +17,6 @@
 
 **So sánh, chọn ra mô hình tốt nhất và minh họa**
 - Compare Machine Learning Algorithms
+
+**Tự động hóa tiến độ bằng Pipeline**
+- Automate Machine Learning Workflows with Pipelines
