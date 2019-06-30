@@ -20,3 +20,6 @@
 
 **Tự động hóa tiến độ bằng Pipeline**
 - Automate Machine Learning Workflows with Pipelines
+
+**Cải thiện khả năng biểu diễn của mô hình**
+- Improve Performance with Ensembles and Algorithm Tuning
