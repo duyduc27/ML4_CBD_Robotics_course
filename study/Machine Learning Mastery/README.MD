@@ -23,3 +23,7 @@
 
 **Cải thiện khả năng biểu diễn của mô hình**
 - Improve Performance with Ensembles and Algorithm Tuning
+
+**Lưu và tải mô hình machine learning**
+- Save and Load Machine Learning Models
+- Save and Load folder (include: test set, finalized_model)
