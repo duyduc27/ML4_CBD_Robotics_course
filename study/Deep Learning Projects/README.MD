@@ -15,3 +15,8 @@ sonar.names: data description
 - Tạo mô hình cơ sở MLP (Baseline Model with Multilayer Perceptrons)
 - Tạo mô hình CNN đơn giản (Simple Convolutional Neural Network for MNIST)
 - Tạo mô hình CNN lớn hơn (Larger Convolutional Neural Network for MNIST)
+
+**Project: Object Recognition in Photographs**
+- Load dữ liệu CIFAR-10 trong Keras (Loading The CIFAR-10 Dataset in Keras)
+- Mạng CNN đơn giản (Simple CNN for CIFAR-10)
+- Mạng CNN lớn hơn (Larger CNN for CIFAR-10)
