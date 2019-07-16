@@ -7,3 +7,4 @@ Assignment 04 : Melbourne Housing Project <br>
 Assignment 05 : Airline Arrivals Project<br>
 Assignment 06 : Boston Marathon project<br>
 Assignment 07 : Compute adaptive weight for ANN (by hand)<br>
+Assignment 08 : Fruit classification<br>
