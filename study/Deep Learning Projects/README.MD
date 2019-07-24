@@ -20,3 +20,9 @@ sonar.names: data description
 - Load dữ liệu CIFAR-10 trong Keras (Loading The CIFAR-10 Dataset in Keras)
 - Mạng CNN đơn giản (Simple CNN for CIFAR-10)
 - Mạng CNN lớn hơn (Larger CNN for CIFAR-10)
+
+**Project: Predict Sentiment From Movie Reviews**
+- Load dữ liệu IMDB (Load the IMDB Dataset With Keras)
+- Word Embeddings
+- Mô hình mạng MLP đơn giản (Simple Multilayer Perceptron Model)
+- Mạng CNN 1 chiều (One-Dimensional Convolutional Neural Network)
