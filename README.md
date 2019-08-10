@@ -9,4 +9,4 @@ Assignment 06 : Boston Marathon project<br>
 Assignment 07 : Compute adaptive weight for ANN (by hand)<br>
 Assignment 08 : Fruit classification<br>
 Assignment 09 : Author classification<br>
-Assignment 10 : Lung cancer detection
+Final Capstone project : Lung cancer detection
